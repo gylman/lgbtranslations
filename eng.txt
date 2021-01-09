@@ -1,0 +1,94 @@
+Wow! You finished the last level, great!
+Would you like to move on to *"{nextLevel}"*, the next level?
+Awesome! You matched or exceeded our solution.
+See if you can whittle it down to {best} :D
+Warning! Mercurial does aggressive garbage collection and thus needs to prune your tree
+The -A option is not needed for this app, just commit away!
+There is no status command for this app, since there is no staging of files. Try hg summary instead
+I need the option {option} for that command!
+hg log without -f is currently not supported, use -f
+Detached head!
+On branch {branch}
+Ready to commit! (as always in this demo)
+Quick commit. Go Bears!
+Already up to date!
+Your origin branch is out of sync with the remote branch and fetch cannot be performed
+The remote repository has diverged from your local repository, so uploading your changes is not a simple fast forward (and thus your push was rejected). Please pull down the new changes in the remote repository, incorporate them into this branch, and try again. You can do so with git pull or git pull --rebase
+You cannot execute that command on a remote branch
+An origin is required for that command
+An origin already exists! You cannot make a new one
+You can't delete the master branch, the branch you are on, or things that aren't branches
+Merge {target} into {current}
+No commits to rebase! Everything is a merge commit or changes already applied
+Nothing to do...
+Fast forwarding...
+Branch already up-to-date
+The ref {ref} does not exist or is unknown
+Commit {commit} does not have a {match}
+Warning!! Detached HEAD state
+No need to add files in this demo
+Those options you specified are incompatible or incorrect
+The commit {commit} already exists in your changes set, aborting!
+Can't reset in detached head! Use checkout if you want to move
+The default behavior for resets on LearnGitBranching is a --hard, so feel free to omit that option if you get tired of typing it out in our lessons. Just remember that the default behavior on actual Git is --mixed.
+There is no concept of adding / staging files, so that option or command is invalid!
+Reverting {oldCommit}: {oldMsg}
+I expect at most {upper} argument(s) for {what}
+I expect at least {lower} argument(s) for {what}
+That command accepts no general arguments
+Copy the tree string below
+Learn Git Branching
+Select a level
+Main
+Remote
+Sorry, we need to keep branch names short for the visuals. Your branch name was truncated to 9 characters, resulting in "{branch}"
+That branch name "{branch}" is not allowed!
+That tag name "{tag}" is not allowed!
+The option "{option}" is not supported!
+git <command> [<args>]
+Supported commands:
+Usage:
+Git Version PCOTTLE.1.0
+Flipping tree...
+Refreshing tree...
+Locale set to {locale}
+Locale reset to default, which is {locale}
+Please use one of the following commands for more info:
+Here is a list of all the commmands available:
+Directory changed to "/directories/dont/matter/in/this/demo"
+DontWorryAboutFilesInThisDemo.txt
+LGB can't receive input on mobile, visit on desktop! it's worth it :D
+Share this tree with friends! They can load it with "import tree"
+Paste a JSON blob below!
+Solved map was reset, you are starting from a clean slate!
+You are not in a level! You are in a sandbox, start a level with "levels"
+A level for that id "{id}" was not found! Opening up a level selection view
+The undo stack is empty!
+You have already solved this level, try other levels with "levels" or go back to sandbox with "sandbox"
+Solved!!
+:D
+That git command is disabled for this level!
+Here is the JSON for this level! Share it with someone or send it to me on GitHub
+You have not specified a start dialog, would you like to add one?
+You have not specified a hint, would you like to add one?
+Enter the hint for this level, or leave this blank if you do not want to include one
+Enter the name for the level
+Your solution is empty!! Something is amiss
+Defining start point... solution and goal will be overwritten if they were defined earlier
+You are in a level, so multiple forms of help are available. Please select either "help level" to learn more about this lesson, "help general" for using Learn GitBranching, or "objective" to learn about how to solve the level.
+You are in a level builder, so multiple forms of help are available. Please select either "help general" or "help builder"
+Show Goal
+Hide Goal
+Instructions
+Git Demonstration
+Goal To Reach
+<span class="fwber">Note:</span> Only the master branch will be checked in this level. The other branches are simply for reference (shown as dashed labels below). As always, you can hide this dialog with "hide goal"
+You can hide this window with "hide goal"
+You can hide this window with "hide start"
+Level Builder
+There is no start dialog to show for this level!
+Hmm, there doesn't seem to be a hint for this level :-/
+The translation for {key} does not exist yet :( Please hop on github and offer up a translation!
+This dialog or text is not yet translated in your locale :( Hop on github to aid in translation!
+Cancel
+Confirm

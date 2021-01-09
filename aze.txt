@@ -1,0 +1,94 @@
+Heyrət! Vay! Son səviyyəni başa vurdun, əla!
+Növbəti səviyyə * "{nextLevel}" * -ə keçmək istərdinizmi?
+Zəhmli! Çözümümüzə uyğun gəldin və ya aşdın.
+Bunu ən yaxşısına qədər ağarta biləcəyinizə baxın: D
+Xəbərdarlıq! Mercurial aqressiv zibil yığır və buna görə ağacınızı budamaq lazımdır
+-A seçimi bu tətbiq üçün lazım deyil, yalnız üz tutun!
+Bu tətbiqetmə üçün heç bir status əmri yoxdur, çünki faylların səhnələşdirilməsi yoxdur. Bunun əvəzinə hg xülasəsini sınayın
+Bu əmr üçün {option} seçiminə ehtiyacım var!
+-f olmadan hg log hazırda dəstəklənmir, -f istifadə edin
+Ayrı baş!
+Filialda {filial}
+Etməyə hazırsınız! (həmişə olduğu kimi bu demoda)
+Tez işləyin. Ayılar gedin!
+Onsuz da yeniləndi!
+Mənşə filialınız uzaq filial ilə sinxronizasiya olundu və əldə edilə bilməz
+Uzaq depo yerli depodan ayrıldı, buna görə dəyişikliklərinizi yükləmək sadə bir sürətli irəli deyil (və beləliklə təkanınız rədd edildi). Zəhmət olmasa, uzaqdakı depodakı yeni dəyişiklikləri aşağı çəkin, bu bölməyə daxil edin və yenidən cəhd edin. Bunu git pull və ya git pull --rebase ilə edə bilərsiniz
+Bu əmri uzaq bir filialda icra edə bilməzsiniz
+Bu əmr üçün mənşə tələb olunur
+Mənşə onsuz da mövcuddur! Yenisini edə bilməzsən
+Əsas filialı, olduğunuz filialı və ya filial olmayan şeyləri silə bilməzsiniz
+{Target} -i {current} ilə birləşdirin
+Yeniləməyə borc yoxdur! Hər şey birləşdirmə qərarı və ya tətbiq edilmiş dəyişikliklərdir
+Etməli bir şey yoxdur...
+Sürətli yönləndirmə ...
+Şöbə onsuz da müasirdir
+Ref {ref} mövcud deyil və ya bilinmir
+Öhdəliyin {commit} -də {match} yoxdur
+Xəbərdarlıq! Ayrı baş vəziyyəti
+Bu demoda fayl əlavə etməyə ehtiyac yoxdur
+Göstərdiyiniz seçimlər uyğun deyil və ya səhvdir
+Öhdəlik, dəyişikliklər dəstində artıq mövcuddur, ləğv!
+Ayrı başda sıfırlamaq olmur! Hərəkət etmək istəyirsinizsə kassadan istifadə edin
+LearnGitBranching-də sıfırlama üçün standart davranış bir qədər ağırdır, buna görə dərslərimizdə yazmaqdan bezsəniz, bu seçimi buraxın. Yalnız faktiki Gitdəki standart davranışın - qarışıq olduğunu unutmayın.
+Faylları əlavə etmək / qurmaq anlayışı yoxdur, belə ki seçim və ya əmr etibarsızdır!
+{OldCommit} geri qaytarılır: {oldMsg}
+{What} üçün ən çox {yuxarı} mübahisə (lər) gözləyirəm
+{What} üçün ən azı {aşağı} mübahisə (lər) gözləyirəm
+Bu əmr ümumi mübahisələri qəbul etmir
+Aşağıdakı ağac simli kopyalayın
+Git Dallanmasını öyrənin
+Səviyyə seçin
+Əsas
+Uzaqdan
+Üzr istəyirik, filial adlarını vizual üçün qısa saxlamalıyıq. Filial adınız 9 simvoldan kəsilib və nəticədə "{branch}"
+O filial adına "{branch}" icazə verilmir!
+O etiket adı "{tag}" icazə verilmir!
+"{Option}" seçimi dəstəklənmir!
+git <command> [<args>]
+Dəstəklənən əmrlər:
+İstifadəsi:
+Git Versiyası PCOTTLE.1.0
+Ağac fırlanır ...
+Ağac təzələnir ...
+Yerli dil {locale} olaraq ayarlandı
+Yerli silmək defolt vəziyyətə gətirildi, bu {locale}
+Daha çox məlumat üçün aşağıdakı əmrlərdən birini istifadə edin.
+Mövcud bütün əmrlərin siyahısı:
+Kataloq "/ directory / dont / matter / in / this / demo" olaraq dəyişdirildi
+DontWorryAboutFilesInThisDemo.txt
+LGB mobil cihazdan məlumat ala bilmir, masaüstündə ziyarət edin! buna dəyər: D
+Bu ağacı dostlarınızla paylaşın! Onu "idxal ağacı" ilə yükləyə bilərlər.
+Bir JSON blobunu aşağıya yapışdırın!
+Çözülmüş xəritə sıfırlandı, təmiz bir sənəddən başlayırsınız!
+Bir səviyyədə deyilsiniz! Bir sandboxdasınız, "səviyyə" ilə bir səviyyə başlayın
+Bu "{id}" id üçün səviyyə tapılmadı! Səviyyə seçim görünüşünün açılması
+Geri yığın boşdur!
+Bu səviyyə artıq həll etdiniz, "səviyyə" ilə digər səviyyələri sınayın və ya "sandbox" ilə məkana qayıdın
+Həll edildi !!
+: D.
+Bu git əmri bu səviyyə üçün deaktivdir!
+Budur bu səviyyə üçün JSON! Birisi ilə paylaşın və ya GitHub'da mənə göndərin
+Bir başlanğıc dialoqunu təyin etməmisiniz, əlavə etmək istərdiniz?
+Bir ipucu təyin etməmisiniz, əlavə etmək istərdinizmi?
+Bu səviyyə üçün ipucu daxil edin və ya əlavə etmək istəmirsinizsə, bu boş buraxın
+Səviyyə üçün ad daxil edin
+Sizin həlliniz boşdur !! Bir şey səhvdir
+Başlanğıc nöqtəsinin müəyyənləşdirilməsi ... həll və hədəf əvvəllər təyin olunsaydı yazılacaq
+Bir səviyyədə olduğunuz üçün bir çox kömək forması mövcuddur. Zəhmət olmasa bu dərs haqqında daha çox məlumat əldə etmək üçün "kömək səviyyəsi" ni seçin, GitBranching Learn istifadə etmək üçün "ümumi kömək" və ya səviyyəni necə həll edəcəyini öyrənmək üçün "obyektiv" seçin.
+Səviyyə qurucusunuz, ona görə çoxsaylı kömək formaları mövcuddur. Zəhmət olmasa "kömək ümumi" ya da "köməkçi qurucu" seçin
+Məqsəd göstərin
+Məqsədi gizlət
+Təlimat
+Git nümayişi
+Çatmaq üçün Hədəf
+<span class = "fwber"> Qeyd: </span> Bu səviyyədə yalnız master filial yoxlanılacaq. Digər filiallar sadəcə istinad üçündür (aşağıda kəsik etiketlərlə göstərilmişdir). Həmişə olduğu kimi, bu dialoqu "hədəfi gizlət" ilə gizlədə bilərsiniz
+Bu pəncərəni "hədəfi gizlət" ilə gizlədə bilərsiniz
+Bu pəncərəni "başlanğıcı gizlə" ilə gizlədə bilərsiniz
+Səviyyə Builder
+Bu səviyyə üçün göstəriləcək bir başlanğıc dialoqu yoxdur!
+Hmm, bu səviyyə üçün bir işarə görünmür: - /
+{Key} üçün tərcümə hələ mövcud deyil :( Xahiş edirəm github-a keçin və tərcümə təklif edin!
+Bu informasiya qutusu və ya mətn yerli dilinizdə hələ tərcümə olunmayıb :( Transla kömək etmək üçün github-a vurun
+Ləğv et
+Təsdiqləyin

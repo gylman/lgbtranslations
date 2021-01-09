@@ -1,0 +1,374 @@
+Wow! You finished the last level, great!
+Вау! Вы прошли последний уровень, отлично!
+Babat! Axrıncı səviyyəni keçdin, möhtəşəm!
+
+Would you like to move on to *"{nextLevel}"*, the next level?
+Хотите перейти на следующий уровень: *"{nextLevel}"*?
+Növbəti *"{nextLevel}"* səviyyəyə keçmək istəyirən?
+
+Awesome! You matched or exceeded our solution.
+Отлично! Ваше решение соответствует или превосходит наше.
+Əla! Çözümümüzə uyğun gəldin, bəlkə də aşdın.
+
+See if you can whittle it down to {best} :D
+Попробуйте, может вы сможете уложиться в {best} : D
+Bunu ən yaxşısına qədər ağarta biləcəyinizə baxın: D
+
+Warning! Mercurial does aggressive garbage collection and thus needs to prune your tree
+Внимание! Mercurial использует агрессивный сборщик мусора и обрезает ваше дерево
+Xəbərdarlıq! Mercurial aqressiv zibil yığır və buna görə ağacınızı budamaq lazımdır
+
+The -A option is not needed for this app, just commit away!
+Опция -A не требуется для этого приложения, просто сделайте коммит.
+-A seçimi bu tətbiq üçün lazım deyil, yalnız üz tutun!
+
+There is no status command for this app, since there is no staging of files. Try hg summary instead
+Команда status не поддерживается в этом приложении, так как здесь нет файлов. Попробуйте выполнить hg summary
+Bu tətbiqetmə üçün heç bir status əmri yoxdur, çünki faylların səhnələşdirilməsi yoxdur. Bunun əvəzinə hg xülasəsini sınayın
+
+I need the option {option} for that command!
+Для этой команды требуется опция {option}
+Bu əmr üçün {option} seçiminə ehtiyacım var!
+
+hg log without -f is currently not supported, use -f
+hg log без опции -f в настоящий момент не поддерживается, используйте -f
+-f olmadan hg log hazırda dəstəklənmir, -f istifadə edin
+
+Detached head!
+Отделенный HEAD
+Ayrı baş!
+
+On branch {branch}
+В ветке {branch}
+Filialda {filial}
+
+Ready to commit! (as always in this demo)
+Готово к коммиту! (как и всегда в этом демо)
+Etməyə hazırsınız! (həmişə olduğu kimi bu demoda)
+
+Quick commit. Go Bears!
+Быстрый коммит. А надо!
+Tez işləyin. Ayılar gedin!
+
+Already up to date!
+Уже обновлено!
+Onsuz da yeniləndi!
+
+Your origin branch is out of sync with the remote branch and fetch cannot be performed
+Ваша origin ветка не синхронизирована с удаленной веткой, невозможно выполнить fetch
+Mənşə filialınız uzaq filial ilə sinxronizasiya olundu və əldə edilə bilməz
+
+The remote repository has diverged from your local repository, so uploading your changes is not a simple fast forward (and thus your push was rejected). Please pull down the new changes in the remote repository, incorporate them into this branch, and try again. You can do so with git pull or git pull --rebase
+Удаленный репозиторий разошелся с вашим локальным репозиторием, поэтому выгрузка ваших изменений не может быть в режиме fast forward (и следовательно ваш push будет отклонён). Пожалуйста, удалите изменения в удаленном репозитории которые, объедините их в эту ветку и попробуйте еще раз. Вы можете сделать это с помощью git pull или git pull --rebase
+Uzaq depo yerli depodan ayrıldı, buna görə dəyişikliklərinizi yükləmək sadə bir sürətli irəli deyil (və beləliklə təkanınız rədd edildi). Zəhmət olmasa, uzaqdakı depodakı yeni dəyişiklikləri aşağı çəkin, bu bölməyə daxil edin və yenidən cəhd edin. Bunu git pull və ya git pull --rebase ilə edə bilərsiniz
+
+You cannot execute that command on a remote branch
+Вы не можете выполнить эту команду на удаленной ветке
+Bu əmri uzaq bir filialda icra edə bilməzsiniz
+
+An origin is required for that command
+Origin требуется для этой команды
+Bu əmr üçün mənşə tələb olunur
+
+An origin already exists! You cannot make a new one
+Origin уже существует! Невозможно создать еще один
+Mənşə onsuz da mövcuddur! Yenisini edə bilməzsən
+
+You can't delete the master branch, the branch you are on, or things that aren't branches
+Невозможно удалить ветку master, ветку на которой вы сейчас и то что не является веткой
+Əsas filialı, olduğunuz filialı və ya filial olmayan şeyləri silə bilməzsiniz
+
+Merge {target} into {current}
+Слияние {target} в {current}
+{Target} -i {current} ilə birləşdirin
+
+No commits to rebase! Everything is a merge commit or changes already applied
+Нет коммитов для rebase! Все в коммите слияния или изменения уже применены
+Yeniləməyə borc yoxdur! Hər şey birləşdirmə qərarı və ya tətbiq edilmiş dəyişikliklərdir
+
+Nothing to do...
+Нечего выполнять...
+Etməli bir şey yoxdur...
+
+Fast forwarding...
+Выполняю Fast forward...
+Sürətli yönləndirmə ...
+
+Branch already up-to-date
+Ветка уже обновлена
+Şöbə onsuz da müasirdir
+
+The ref {ref} does not exist or is unknown
+Ссылка {ref} не существует или неизвестна
+Ref {ref} mövcud deyil və ya bilinmir
+
+Commit {commit} does not have a {match}
+Коммит {commit} не содержит {match}
+Öhdəliyin {commit} -də {match} yoxdur
+
+Warning!! Detached HEAD state
+Внимание! Репозиторий в состоянии detached HEAD, то есть не находится ни на какой ветке!
+Xəbərdarlıq! Ayrı baş vəziyyəti
+
+No need to add files in this demo
+Это демо не оперирует файлами
+Bu demoda fayl əlavə etməyə ehtiyac yoxdur
+
+Those options you specified are incompatible or incorrect
+Неправильные опции
+Göstərdiyiniz seçimlər uyğun deyil və ya səhvdir
+
+The commit {commit} already exists in your changes set, aborting!
+Коммит {commit} существует, отменяю!
+Öhdəlik, dəyişikliklər dəstində artıq mövcuddur, ləğv!
+
+Can't reset in detached head! Use checkout if you want to move
+Это невозможно в режиме detached HEAD! Используйте checkout!
+Ayrı başda sıfırlamaq olmur! Hərəkət etmək istəyirsinizsə kassadan istifadə edin
+
+The default behavior for resets on LearnGitBranching is a --hard, so feel free to omit that option if you get tired of typing it out in our lessons. Just remember that the default behavior on actual Git is --mixed.
+По умолчанию будет выполнен --hard reset, эту опцию можно опускать!
+LearnGitBranching-də sıfırlama üçün standart davranış bir qədər ağırdır, buna görə dərslərimizdə yazmaqdan bezsəniz, bu seçimi buraxın. Yalnız faktiki Gitdəki standart davranışın - qarışıq olduğunu unutmayın.
+
+There is no concept of adding / staging files, so that option or command is invalid!
+Это демо не работает с файлами, так что git add не нужен!
+Faylları əlavə etmək / qurmaq anlayışı yoxdur, belə ki seçim və ya əmr etibarsızdır!
+
+Reverting {oldCommit}: {oldMsg}
+Откатываю {oldCommit}: {oldMsg}
+{OldCommit} geri qaytarılır: {oldMsg}
+
+I expect at most {upper} argument(s) for {what}
+Ожидается максимум {upper} аргумент(ов) для {what}
+{What} üçün ən çox {yuxarı} mübahisə (lər) gözləyirəm
+
+I expect at least {lower} argument(s) for {what}
+Ожидается как минимум {lower} аргументов для {what}
+{What} üçün ən azı {aşağı} mübahisə (lər) gözləyirəm
+
+That command accepts no general arguments
+Это команда без аргументов
+Bu əmr ümumi mübahisələri qəbul etmir
+
+Copy the tree string below
+Скопируй текст ниже
+Aşağıdakı ağac simli kopyalayın
+
+Learn Git Branching
+Изучаем ветвление в git
+Git Dallanmasını öyrənin
+
+Select a level
+Выбери уровень
+Səviyyə seçin
+
+Main
+Основы
+Əsas
+
+Remote
+Удаленные репозитории
+Uzaqdan
+
+Sorry, we need to keep branch names short for the visuals. Your branch name was truncated to 9 characters, resulting in "{branch}"
+Для наглядности нам нужно сохранять имена веток короткими. Твоё название сокращено до 9 символов и теперь это "{branch}"
+Üzr istəyirik, filial adlarını vizual üçün qısa saxlamalıyıq. Filial adınız 9 simvoldan kəsilib və nəticədə "{branch}"
+
+That branch name "{branch}" is not allowed!
+Название для ветки "{branch}" недопустимо!
+O filial adına "{branch}" icazə verilmir!
+
+That tag name "{tag}" is not allowed!
+Название для тега "{tag}" недопустимо!
+O etiket adı "{tag}" icazə verilmir!
+
+The option "{option}" is not supported!
+Опция "{option}" недопустима!
+"{Option}" seçimi dəstəklənmir!
+
+git <command> [<args>]
+git <команда> [<аргументы>]
+git <command> [<args>]
+
+Supported commands:
+Поддерживаемые команды
+Dəstəklənən əmrlər:
+
+Usage:
+Использование:
+İstifadəsi:
+
+Git Version PCOTTLE.1.0
+Версия git PCOTTLE.1.0
+Git Versiyası PCOTTLE.1.0
+
+Flipping tree...
+Переворачиваю дерево...
+Ağac fırlanır ...
+
+Refreshing tree...
+Обновляю дерево...
+Ağac təzələnir ...
+
+Locale set to {locale}
+Локаль теперь равна {locale}
+Yerli dil {locale} olaraq ayarlandı
+
+Locale reset to default, which is {locale}
+Локаль сброшена. Теперь она равна {locale}
+Yerli silmək defolt vəziyyətə gətirildi, bu {locale}
+
+Please use one of the following commands for more info:
+Для получения большей информации используй следующие команды:
+Daha çox məlumat üçün aşağıdakı əmrlərdən birini istifadə edin.
+
+Here is a list of all the commmands available:
+Вот все поддерживаемуе команды:
+Mövcud bütün əmrlərin siyahısı:
+
+Directory changed to "/directories/dont/matter/in/this/demo"
+Директория изменена на "/директории/не/важны/в/этом/демо"
+Kataloq "/ directory / dont / matter / in / this / demo" olaraq dəyişdirildi
+
+DontWorryAboutFilesInThisDemo.txt
+НеНадоЗаботитьсяОФайлахВЭтомДемо.txt
+DontWorryAboutFilesInThisDemo.txt
+
+LGB can't receive input on mobile, visit on desktop! it's worth it :D
+Мобильные не поддерживаются, зайди с компьютера!
+LGB mobil cihazdan məlumat ala bilmir, masaüstündə ziyarət edin! buna dəyər: D
+
+Share this tree with friends! They can load it with "import tree"
+Поделись деревом с друзьями! Они могут загрузить его при помощи "import tree"
+Bu ağacı dostlarınızla paylaşın! Onu "idxal ağacı" ilə yükləyə bilərlər.
+
+Paste a JSON blob below!
+Вставь JSON ниже!
+Bir JSON blobunu aşağıya yapışdırın!
+
+Solved map was reset, you are starting from a clean slate!
+Всё сброшено! Можно начать с чистого листа!
+Çözülmüş xəritə sıfırlandı, təmiz bir sənəddən başlayırsınız!
+
+You are not in a level! You are in a sandbox, start a level with "levels"
+Ты не проходишь уровень! Ты в песочнице! Чтобы начать уровень, используй команду "levels"!
+Bir səviyyədə deyilsiniz! Bir sandboxdasınız, "səviyyə" ilə bir səviyyə başlayın
+
+A level for that id "{id}" was not found! Opening up a level selection view
+Уровень с id "{id}" не найден! Открываю выбор уровней
+Bu "{id}" id üçün səviyyə tapılmadı! Səviyyə seçim görünüşünün açılması
+
+The undo stack is empty!
+Некуда откатывать!
+Geri yığın boşdur!
+
+You have already solved this level, try other levels with "levels" or go back to sandbox with "sandbox"
+Ты уже прошел этот уровень, попробуй пройти другие при помощи команды "levels" или иди в песочницу "sandbox"
+Bu səviyyə artıq həll etdiniz, "səviyyə" ilə digər səviyyələri sınayın və ya "sandbox" ilə məkana qayıdın
+
+Solved!!
+:D
+Решено!!
+:D
+Həll edildi !!
+
+That git command is disabled for this level!
+На этом уровне нельзя использовать эту команду!
+: D.
+
+Here is the JSON for this level! Share it with someone or send it to me on GitHub
+Вот JSON для этого уровня! Поделись им с кем-нибудь или отправь его нам на GitHub
+Bu git əmri bu səviyyə üçün deaktivdir!
+
+You have not specified a start dialog, would you like to add one?
+Не указано стартово сообщение! Точно продолжаем?
+Budur bu səviyyə üçün JSON! Birisi ilə paylaşın və ya GitHub'da mənə göndərin
+
+You have not specified a hint, would you like to add one?
+Не указана подсказка для уровня! Пренебречь? Вальсируем?
+Bir başlanğıc dialoqunu təyin etməmisiniz, əlavə etmək istərdiniz?
+
+Enter the hint for this level, or leave this blank if you do not want to include one
+Введи подсказку для уровня, если хочешь.
+Bir ipucu təyin etməmisiniz, əlavə etmək istərdinizmi?
+
+Enter the name for the level
+Введи название уровня
+Bu səviyyə üçün ipucu daxil edin və ya əlavə etmək istəmirsinizsə, bu boş buraxın
+
+Your solution is empty!! Something is amiss
+Решение не указано! Так не годится!
+Səviyyə üçün ad daxil edin
+
+Defining start point... solution and goal will be overwritten if they were defined earlier
+Устанавливаю стартовую точку... Решение и итоговое состояние будут стёрты, если они указаны ранее
+Sizin həlliniz boşdur !! Bir şey səhvdir
+
+You are in a level, so multiple forms of help are available. Please select either "help level" to learn more about this lesson, "help general" for using Learn GitBranching, or "objective" to learn about how to solve the level.
+При прохождении уровня доступны несколько видов помощи. Определить что нужно: "help level" чтобы получить информацию об этом уровне, "help general" для того, чтобы узнать о игре в целом или "objective" чтобы узнать что надо сделать в этом уровне.
+Başlanğıc nöqtəsinin müəyyənləşdirilməsi ... həll və hədəf əvvəllər təyin olunsaydı yazılacaq
+
+You are in a level builder, so multiple forms of help are available. Please select either "help general" or "help builder"
+При создании уровней доступны несколько видов помощи. Выбери между "help general" и "help builder"
+Bir səviyyədə olduğunuz üçün bir çox kömək forması mövcuddur. Zəhmət olmasa bu dərs haqqında daha çox məlumat əldə etmək üçün "kömək səviyyəsi" ni seçin, GitBranching Learn istifadə etmək üçün "ümumi kömək" və ya səviyyəni necə həll edəcəyini öyrənmək üçün "obyektiv" seçin.
+
+Show Goal
+Цель уровня
+Səviyyə qurucusunuz, ona görə çoxsaylı kömək formaları mövcuddur. Zəhmət olmasa "kömək ümumi" ya da "köməkçi qurucu" seçin
+
+Hide Goal
+Спрятать цель
+Məqsəd göstərin
+
+Instructions
+Задача
+Məqsədi gizlət
+
+Git Demonstration
+Git демо
+Təlimat
+
+Goal To Reach
+Цель уровня
+Git nümayişi
+
+<span class="fwber">Note:</span> Only the master branch will be checked in this level. The other branches are simply for reference (shown as dashed labels below). As always, you can hide this dialog with "hide goal"
+<span class="fwber">Важно:</span> В этом уровне проверяется только ветка master. Остальные ветки просто для наглядности. Как обычно, можно скрыть это сообщение при помощи "hide goal"
+Çatmaq üçün Hədəf
+
+You can hide this window with "hide goal"
+Можно скрыть это окно при помощи "hide goal"
+<span class = "fwber"> Qeyd: </span> Bu səviyyədə yalnız master filial yoxlanılacaq. Digər filiallar sadəcə istinad üçündür (aşağıda kəsik etiketlərlə göstərilmişdir). Həmişə olduğu kimi, bu dialoqu "hədəfi gizlət" ilə gizlədə bilərsiniz
+
+You can hide this window with "hide start"
+Можно скрыть это окно при помощи "hide start"
+Bu pəncərəni "hədəfi gizlət" ilə gizlədə bilərsiniz
+
+Level Builder
+Редактор уровней
+Bu pəncərəni "başlanğıcı gizlə" ilə gizlədə bilərsiniz
+
+There is no start dialog to show for this level!
+Нет стартового сообщение для уровня!
+Səviyyə Builder
+
+Hmm, there doesn't seem to be a hint for this level :-/
+Милый мой, хороший, догадайся сам :-/ Подсказка не создана...
+Bu səviyyə üçün göstəriləcək bir başlanğıc dialoqu yoxdur!
+
+The translation for {key} does not exist yet :( Please hop on github and offer up a translation!
+Перевода для {key} не создано :( Пожалуйста, предложи перевод на GitHub
+Hmm, bu səviyyə üçün bir işarə görünmür: - /
+
+This dialog or text is not yet translated in your locale :( Hop on github to aid in translation!
+Для этого сообщения нет перевода :( Пожалуйста, предложи перевод на GitHub
+{Key} üçün tərcümə hələ mövcud deyil :( Xahiş edirəm github-a keçin və tərcümə təklif edin!
+
+Cancel
+Отменить
+Bu informasiya qutusu və ya mətn yerli dilinizdə hələ tərcümə olunmayıb :( Transla kömək etmək üçün github-a vurun
+
+Confirm
+Подтвердить
+Ləğv et
+
